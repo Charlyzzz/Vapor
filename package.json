@@ -1,4 +1,8 @@
 {
-  "name": "Vapor",
-  "version": "1.4.0"
+  "name": "vapor",
+  "version": "1.4.0",
+  "author": {
+    "name": "Erwin Carlos Debusschere Luoni",
+    "email": "erwincdl@gmail.com"
+  }
 }
